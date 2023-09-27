@@ -90,7 +90,7 @@ herramienta.
 - Vector Stores
 - Embeddings
 - Memory
-- Conversational Agent
+- Conversational  Agent
 
 ## 6. Getting started
 
